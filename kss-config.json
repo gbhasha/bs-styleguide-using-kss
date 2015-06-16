@@ -6,5 +6,6 @@
   ],
   "js": [
     "../../src/assets/javascripts/bootstrap.min.js"
-  ]
+  ],
+  "template": "src/template/"
 }

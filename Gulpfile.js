@@ -2,7 +2,6 @@
 
 var gulp = require('gulp');
 var sass = require('gulp-sass');
-var exec = require('child_process').exec;
 var del = require('del');
 var shell = require('gulp-shell');
 
