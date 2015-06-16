@@ -1,0 +1,10 @@
+{
+  "source": "./src/assets/stylesheets/",
+  "destination": "./dest/styleguide/",
+  "css": [
+    "../assets/css/main.css"
+  ],
+  "js": [
+    "../../src/assets/javascripts/bootstrap.min.js"
+  ]
+}
